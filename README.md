@@ -50,3 +50,9 @@ Run the script for model training.
 Real-time Prediction:
 
 Execute the script for real-time prediction using a webcam.
+
+**Acknowledgments**
+The dataset used in this project is sourced from https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria.
+
+License
+This project is licensed under the MIT License.
